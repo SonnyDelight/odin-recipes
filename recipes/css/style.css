@@ -1,0 +1,26 @@
+* {
+    background-color: beige;
+}
+
+h1 {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.index {
+    text-align: center;
+}
+
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.food {
+    width: 600px;
+}
+
+h2,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
